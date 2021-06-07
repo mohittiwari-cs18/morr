@@ -1,5 +1,4 @@
-## Damon Solution:
-
+## Morr Assignment
 ### How to run the app:
 
 Step 1: Run `yarn` command to install npm packages
@@ -13,12 +12,15 @@ Step 3: Run `yarn watch` to start the app
 ### Q & A:
 <b>How did you decide on the technical and architectural choices used as part of your solution?</b>
 
-After I have read through the project requirements from README file, I have decides to use following technologies to build up this app:
-  - `webpack` (for code compling at runtime)
-  - <a href="https://andela.com/insights/structuring-your-react-application-atomic-design-principles/" taget="_blank">Atomic design principles</a> for building up React components structure (previous experience)
-  - `styled-components` for build my custom components easier
-  - `react hooks` for create my own hooks for handling API requests
-  - `react-testing library` I have been thinking of doing unit tests (If I can have more time, I can do it)
+After reading the project requirements in the README file, I decided to develop this app using the following technologies:
+
+- http://webpack.io/webpack.io/webpack.io (for code compling at runtime)
+
+- Building up atomic design concepts
+The construction of React components (previous experience)
+- styled-components to make it easy to create my own custom components
+- React hooks, which I used to develop my own hooks for dealing with API requests. 
+- `react-testing library` I have been thinking of doing unit tests (If I can have more time, I can do it)
 
 <b>Are there any improvements you could make to your submission?</b>
   - Unit tests need to be covered
